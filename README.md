@@ -33,7 +33,7 @@ Extensive experiments show the superior performance of our method both qualitati
    ```
 5. the result video is `test/result.mp4`.
 
-## To DO
+## To Do
 
 - [ ] First-order Motion Approximation
 - [ ] Unsupervised Texture Animator
@@ -48,8 +48,5 @@ Extensive experiments show the superior performance of our method both qualitati
   year      = {2021},
 }
 ```
-
-
-
 
 
